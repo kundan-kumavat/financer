@@ -104,3 +104,20 @@ border: 1px solid #676293;
 ul{
   list-style-type: disc;
 }
+
+table{
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 20px;
+}
+
+tr:nth-child(odd){
+  background-color: #1B1843;
+}
+
+tr:nth-child(even){
+  background-color: #2F2A52;
+}

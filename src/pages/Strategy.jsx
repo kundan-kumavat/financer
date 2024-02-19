@@ -3,7 +3,7 @@ import React from "react";
 const Strategy = () => {
     return(
         <div className="flex flex-row w-full items-center justify-between mt-[20px]">
-            <div className="p-[20px] credit-card rounded-md">
+            <div className="p-[20px] bg-[#1B1843] rounded-md">
                 <p className="heading text-gradient">Rules For Trading</p>
                 <div className="text-white px-[20px] py-[10px]">
                     <ul>

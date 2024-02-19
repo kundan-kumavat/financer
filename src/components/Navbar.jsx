@@ -11,10 +11,10 @@ const Navbar = () => {
                     ))}
                 </div>
 
-                <div className="flex flex-row text-white w-[150px] justify-between">
+                {/* <div className="flex flex-row text-white w-[150px] justify-between">
                     <a href="#">Login</a>
                     <a href="#">Signup</a>
-                </div>
+                </div> */}
             </div>
     )
 }
